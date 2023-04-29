@@ -1,1 +1,2 @@
-# YELP-Database-Application
+# YELP Database Application
+
